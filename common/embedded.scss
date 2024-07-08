@@ -1,19 +1,25 @@
 
 
+footer .button {
+    background-color: #1378D1; 
+    border-radius: 0.6rem; 
+}
+
 
 /* discuss-dark.scss */
 .discuss-dark {
-    background-color: #1e1e1e;
+    background-color: #363636;
     color: #ffffff;
   }
   
   .discuss-dark a {
-    color: #1e90ff;
+//    color: #1e90ff;
   }
   
   .discuss-dark .post {
     background-color: #2b2b2b;
     border: 1px solid #444;
+    border-radius: 0.6rem; 
   }
   
   .discuss-dark .topic-title {
