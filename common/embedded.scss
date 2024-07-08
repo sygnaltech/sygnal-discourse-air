@@ -1,0 +1,49 @@
+
+
+
+/* discuss-dark.scss */
+.discuss-dark {
+    background-color: #1e1e1e;
+    color: #ffffff;
+  }
+  
+  .discuss-dark a {
+    color: #1e90ff;
+  }
+  
+  .discuss-dark .post {
+    background-color: #2b2b2b;
+    border: 1px solid #444;
+  }
+  
+  .discuss-dark .topic-title {
+    color: #ffffff;
+  }
+  
+  .discuss-dark .d-header {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .discuss-dark .d-footer {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .discuss-dark ::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  .discuss-dark ::-webkit-scrollbar-track {
+    background: #2b2b2b;
+  }
+  
+  .discuss-dark ::-webkit-scrollbar-thumb {
+    background: #555;
+  }
+  
+  .discuss-dark ::-webkit-scrollbar-thumb:hover {
+    background: #777;
+  }
+
+  
